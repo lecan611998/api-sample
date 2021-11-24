@@ -1,0 +1,17 @@
+setup docker and Django.
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   Dockerfile
+#	new file:   app/app/__init__.py
+#	new file:   app/app/settings.py
+#	new file:   app/app/urls.py
+#	new file:   app/app/wsgi.py
+#	new file:   app/manage.py
+#	new file:   docker-compose.yml
+#	new file:   requirements.txt
+#
